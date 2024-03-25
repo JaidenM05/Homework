@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c1a56fb-55bc-4ea3-ae59-e4451affa0f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/obstacles/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/obstacles/Fence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/obstacles/Guard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/obstacles/LocatableObstacle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/obstacles/Obstacle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/obstacles/ObstacleType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/obstacles/Sensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pathFinding/BFSPathFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pathFinding/GridPathFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pathFinding/Path.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2dX4L00hC99FgkyfzHOG34BXBR4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/jaide/OneDrive/Y2S1/CAB302 - Software Development/Homework/src/Main.java&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Homework" />
+      <option name="PROGRAM_PARAMETERS" value="-start (0,7) -target (7,2) -g (6,2) -f (2,0,2,5) (0,3,4,3) (6,3,7,3) -s (1,4,2.5) -c (4,2,w) (4,7,e)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c1a56fb-55bc-4ea3-ae59-e4451affa0f1" name="Changes" comment="" />
+      <created>1710141033751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710141033751</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
